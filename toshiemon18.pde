@@ -54,7 +54,7 @@ void draw() {
   
   smooth();
   fill(0, 0, 0);
-  text("Name : Seino Toshiaki", 30, 420);
+  text("Name : tosshi-", 30, 420);
   text("Twitter : @toshiemon18", 30, 470);
   text("Interesrt : Ruby, MetaProgramming", 30, 520);
   text("Gtk2, Processing", 190, 570);
